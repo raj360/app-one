@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/raymond/Projects/learning/flutter/app_one/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/raymond/Projects/learning/flutter/app_one/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/raymond/Projects/learning/flutter/app_one/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
